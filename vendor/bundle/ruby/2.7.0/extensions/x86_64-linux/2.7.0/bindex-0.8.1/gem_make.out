@@ -1,0 +1,15 @@
+current directory: /home/draftingdan/projects/ruby/bizzycar_api/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/home/draftingdan/.rbenv/versions/2.7.1/bin/ruby -I /home/draftingdan/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20200716-9612-10sohul.rb extconf.rb
+creating Makefile
+
+current directory: /home/draftingdan/projects/ruby/bizzycar_api/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/draftingdan/projects/ruby/bizzycar_api/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/draftingdan/projects/ruby/bizzycar_api/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20200716-9612-g5wg0p/skiptrace/internal
